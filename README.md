@@ -456,7 +456,7 @@ When debugging, isolate the failure by testing one boundary at a time: device or
 
 **No license has currently been specified for HallGrid.** This repository does not claim to be released under the MIT License or any other open-source license.
 
-Until a license is added, others should not assume that they have permission to reuse, modify, or redistribute the project's code or assets. To publish the project under an open-source license, add a `LICENSE` file containing the license you choose and ensure that you have the rights to license all included code, model weights, and other assets.
+Until a license is added, others should not assume that they have permission to reuse, modify, or redistribute the project's code or assets.
 
 ---
 
